@@ -66,14 +66,5 @@
 	将某分支合并到当前分支:git merge <name>
 	删除某分支: git branch -d <name>
 
-
-	
-
-
-
-
-
-
-
-
+12.解决冲突2
 
