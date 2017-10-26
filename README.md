@@ -58,13 +58,24 @@
 	git commit -m "" 先删除文件,在提交.
 
 11.创建合并分支
+
 	分支:每次提交，Git把它们串成的一条时间线，这条时间线就是一个分支.
+
 	查看分支:git branch
+
 	创建分支: git branch <name> 
+
 	切换分支: git checkout <name>
+
 	创建并切换到某分支: git chechout -b <name>
+
 	将某分支合并到当前分支:git merge <name>
+
 	删除某分支: git branch -d <name>
+
+12.冲突解决1
+
+	
 
 
 	
