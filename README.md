@@ -74,9 +74,15 @@
 	删除某分支: git branch -d <name>
 
 
+12.冲突解决
 
-12.冲突解决1
+	当多个分支都提交同一处时，有可能会产生冲突
 
+	到冲突页面去手动解决冲突
+
+	然后添加，提交，删除无用分支等
+
+	git log --graph --pretty=oneline --abbrev-commit 查看分支合并情况
 	
 
 
